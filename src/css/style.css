@@ -1,6 +1,6 @@
 body {
     font-family: "Outfit", sans-serif;
-    background-image: url(/src/imagens/fundo-site.png);
+    background-image: url(../imagens/fundo-site.png);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
@@ -79,19 +79,19 @@ body {
 }
 
 .fundo-1 {
-    background: url(/src/imagens/fundo-card-1.jpg) no-repeat;
+    background: url(../imagens/fundo-card-1.jpg) no-repeat;
 }
 
 .fundo-2 {
-    background: url(/src/imagens/fundo-card-2.jpg) no-repeat;   
+    background: url(../imagens/fundo-card-2.jpg) no-repeat;   
 }
 
 .fundo-3 {
-    background: url(/src/imagens/fundo-card-3.jpg) no-repeat;   
+    background: url(../imagens/fundo-card-3.jpg) no-repeat;   
 }
 
 .fundo-4 {
-    background: url(/src/imagens/fundo-card-4.jpg) no-repeat;   
+    background: url(../imagens/fundo-card-4.jpg) no-repeat;   
 }
 
 .cartao .informacoes {
